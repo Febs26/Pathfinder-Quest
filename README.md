@@ -176,8 +176,8 @@ python3 game.py
 ##  Error handling:
 ---
 Please make sure:
-- Your terminal or command prompt is inside the directory where game.py is located
-- The required Python dependencies (like pygame and networkx) are installed in the active virtual environment
+- Your terminal or command prompt is inside the directory where game.py is located.
+- The required Python dependencies (like pygame and networkx) are installed in the active virtual environment.
 
 Enjoy playing **Pathfinder Quest**!
 
